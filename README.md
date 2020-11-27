@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 [![banner](https://github.com/Simply-divine/Simply-divine/blob/main/banner.png)]()
 
-I'm a full stack web developer and a student pursuing undergrad in Computer Engineering at NIT Surat. I also love algorithms, design patterns and anime😄. I am mostly working on nodejs projects these days.
+I'm a full stack web developer and a student pursuing undergrad in Computer Engineering at NIT Surat. I also love algorithms, design patterns and anime😄.
 
 ![Github Stats](https://github-readme-stats.vercel.app/api/?username=Simply-divine&count_private=true&theme=tokyonight&showicons=true)
 
