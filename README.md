@@ -15,9 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![banner](https://github.com/Simply-divine/Simply-divine/blob/main/banner.png)]()
+I'm a software engineer at D.E. Shaw, India. I have completed my undergrad in Computer Engineering at NIT Surat. I love building software, reading books (non-fiction) and anime😄.
+- 🔭 I’m currently working as a software engineer at D.E. Shaw, India
+- 🌱 I’m currently learning building data intensive applications
+- 💬 Ask me about what are my learnings from recent project 
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/hardik1221/) 
+- ⚡ Fun fact: I remember the birth dates of most of the scientists you know.
 
-I'm a full stack web developer and a student pursuing undergrad in Computer Engineering at NIT Surat. I also love algorithms, design patterns and anime😄.
 
 ![Github Stats](https://github-readme-stats.vercel.app/api/?username=Simply-divine&count_private=true&theme=tokyonight&showicons=true)
 
