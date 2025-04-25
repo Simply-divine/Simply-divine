@@ -28,7 +28,7 @@ I'm a software engineer at D.E. Shaw, India. I have completed my undergrad in Co
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Backend-NodeJS-informational?style=flat&logo=node&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Backend-Django-informational?style=flat&logo=django&logoColor=white&color=2bbc8a)\
+![](https://img.shields.io/badge/Backend-Django-informational?style=flat&logo=django&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 </p>
 
