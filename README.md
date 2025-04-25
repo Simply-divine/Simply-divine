@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 I'm a software engineer at D.E. Shaw, India. I have completed my undergrad in Computer Engineering at NIT Surat. I love building software, reading books (non-fiction) and anime😄.
-- 🔭 I’m currently working as a software engineer at D.E. Shaw, India
-- 🌱 I’m currently learning building data intensive applications
+- 🔭 I’m currently working on developing quantitative trading software for D.E. Shaw.
+- 🌱 I’m currently learning about building LLM applications.
 - 💬 Ask me about what are my learnings from recent project 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/hardik1221/) 
 - ⚡ Fun fact: I remember the birth dates of most of the scientists you know.
